@@ -1,0 +1,438 @@
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1458605562071">
+  <folder name="css">
+    <file name="site_global.css" crc="13561989"/>
+    <file name="master_a-master.css" crc="132009416" ref="parallax:resume:website:index:publica:design:publication:digital-design:corporate-identity:packaging:contact:old-parallax"/>
+    <file name="parallax.css" crc="63752773" ref="parallax"/>
+    <file name="resume.css" crc="4134529971" ref="resume"/>
+    <file name="parallax-scrolling.css" crc="303382491" ref="parallax-scrolling"/>
+    <file name="website.css" crc="4128783407" ref="website"/>
+    <file name="iefonts_website.css" crc="266786363" ref="website"/>
+    <file name="index.css" crc="215935592" ref="index"/>
+    <file name="publica.css" crc="364352928" ref="publica"/>
+    <file name="design.css" crc="3773665410" ref="design"/>
+    <file name="publication.css" crc="3956015109" ref="publication"/>
+    <file name="digital-design.css" crc="3774613309" ref="digital-design"/>
+    <file name="corporate-identity.css" crc="529953923" ref="corporate-identity"/>
+    <file name="packaging.css" crc="475173333" ref="packaging"/>
+    <file name="contact.css" crc="3775808135" ref="contact"/>
+    <file name="old-parallax.css" crc="168991186" ref="old-parallax"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="phone>index:phone>resume:phone>contact:phone>digital-design:phone>corporate-identity:phone>publication:phone>packaging:phone>web:tablet>index:tablet>resume:tablet>contact:tablet>digital-design:tablet>corporate-identity:tablet>publication:tablet>packaging:tablet>web:tablet>parallax-scrolling:index:contact:design:packaging:corporate-identity:publica:resume:parallax:old-parallax:digital-design:publication:parallax-scrolling:website"/>
+    <file name="museutils.js" crc="3777594392" ref="phone>index:phone>resume:phone>contact:phone>digital-design:phone>corporate-identity:phone>publication:phone>packaging:phone>web:tablet>index:tablet>resume:tablet>contact:tablet>digital-design:tablet>corporate-identity:tablet>publication:tablet>packaging:tablet>web:tablet>parallax-scrolling:index:contact:design:packaging:corporate-identity:publica:resume:parallax:old-parallax:digital-design:publication:parallax-scrolling:website"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>resume:phone>corporate-identity:phone>web:tablet>index:tablet>resume:tablet>corporate-identity:tablet>web:index:design:corporate-identity:publica:resume:parallax:old-parallax:parallax-scrolling:website"/>
+    <file name="webpro.js" crc="474087315" ref="phone>index:phone>contact:phone>digital-design:phone>corporate-identity:phone>publication:phone>packaging:tablet>index:tablet>contact:tablet>digital-design:tablet>corporate-identity:tablet>publication:tablet>packaging:index:contact:design:packaging:corporate-identity:publica:digital-design:publication:parallax-scrolling:website"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="phone>index:phone>digital-design:phone>corporate-identity:phone>publication:phone>packaging:tablet>index:tablet>digital-design:tablet>corporate-identity:tablet>publication:tablet>packaging:index:design:packaging:corporate-identity:publica:digital-design:publication:parallax-scrolling:website"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="phone>index:phone>digital-design:phone>corporate-identity:phone>publication:phone>packaging:tablet>index:tablet>digital-design:tablet>corporate-identity:tablet>publication:tablet>packaging:index:design:packaging:corporate-identity:publica:digital-design:publication:parallax-scrolling:website"/>
+    <file name="touchswipe.js" crc="100683906" ref="phone>index:phone>digital-design:phone>corporate-identity:phone>publication:phone>packaging:tablet>index:tablet>digital-design:tablet>corporate-identity:tablet>publication:tablet>packaging:index:design:packaging:corporate-identity:publica:digital-design:publication:parallax-scrolling:website"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="phone>index:phone>resume:phone>contact:phone>digital-design:phone>corporate-identity:phone>publication:phone>packaging:phone>web:index:contact:design:packaging:corporate-identity:publica:resume:parallax:old-parallax:digital-design:publication:parallax-scrolling:website"/>
+    <file name="form_check.php" crc="306825315" ref="phone>contact:tablet>contact:contact"/>
+    <file name="form_throttle.php" crc="4293816517" ref="phone>contact:tablet>contact:contact"/>
+    <file name="form_process.php" crc="109188895" ref="phone>contact:tablet>contact:contact"/>
+    <file name="form-u10184.php" crc="504150860" ref="phone>contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="phone>corporate-identity:tablet>corporate-identity:corporate-identity"/>
+    <file name="form-u10990.php" crc="481191697" ref="tablet>contact"/>
+    <file name="museredirect.js" crc="17485671" ref="index:contact:packaging:corporate-identity:resume:digital-design:publication:parallax-scrolling"/>
+    <file name="form-u7096.php" crc="442279827" ref="contact"/>
+    <file name="jquery.scrolleffects.js" crc="117544926" ref="old-parallax:parallax-scrolling"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="4125453830" ref="phone>index"/>
+    <file name="linkedin.png" crc="3820195218" ref="phone>index:phone>resume:phone>contact:phone>digital-design:phone>corporate-identity:phone>publication:phone>packaging:phone>web:tablet>index:tablet>resume:tablet>contact:tablet>digital-design:tablet>corporate-identity:tablet>publication:tablet>packaging:tablet>web:tablet>parallax-scrolling:index:contact:design:packaging:corporate-identity:publica:resume:parallax:old-parallax:digital-design:publication:website"/>
+    <file name="facebook2.png" crc="3942145733" ref="phone>index:phone>resume:phone>contact:phone>digital-design:phone>corporate-identity:phone>publication:phone>packaging:phone>web:tablet>index:tablet>resume:tablet>contact:tablet>digital-design:tablet>corporate-identity:tablet>publication:tablet>packaging:tablet>web:tablet>parallax-scrolling:index:contact:design:packaging:corporate-identity:publica:resume:parallax:old-parallax:digital-design:publication:website"/>
+    <file name="simlogo.png" crc="291692031" ref="phone>index:phone>resume:phone>contact:phone>digital-design:phone>corporate-identity:phone>publication:phone>packaging:phone>web:tablet>index:tablet>resume:tablet>contact:tablet>digital-design:tablet>corporate-identity:tablet>publication:tablet>packaging:tablet>web:tablet>parallax-scrolling:index:contact:design:packaging:corporate-identity:publica:resume:parallax:old-parallax:digital-design:publication:website"/>
+    <file name="bg1-crop-u9961.png" crc="500792547" ref="phone>index"/>
+    <file name="adobe-cc-circle-pr-u10177-fr.png" crc="4065789515" ref="phone>index"/>
+    <file name="adobe-muse-icon-u10148-fr.png" crc="392450796" ref="phone>index"/>
+    <file name="sim.png" crc="4123527415" ref="phone>index:tablet>index"/>
+    <file name="adobe-ps-icon-u10094-fr.png" crc="3807935154" ref="phone>index"/>
+    <file name="adobe-ai-icon-u10114-fr.png" crc="4146505445" ref="phone>index"/>
+    <file name="adobe-dw-icon-u9973-fr.png" crc="361960341" ref="phone>index"/>
+    <file name="adobe-id-icon-u10143-fr.png" crc="4061588350" ref="phone>index"/>
+    <file name="quotation_marks.png" crc="3861795226" ref="phone>index:tablet>index:index"/>
+    <file name="mail.png" crc="4263282853" ref="phone>contact:tablet>contact:contact"/>
+    <file name="u10200-17.png" crc="4032653701" ref="phone>contact"/>
+    <file name="u10200-17-r.png" crc="3993682018" ref="phone>contact"/>
+    <file name="u10200-17-m.png" crc="3993682018" ref="phone>contact"/>
+    <file name="u10200-17-fs.png" crc="3993682018" ref="phone>contact"/>
+    <file name="eddie251x189.jpg" crc="4293782612" ref="phone>digital-design"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>digital-design:phone>corporate-identity:phone>publication:phone>packaging:tablet>digital-design:tablet>corporate-identity:tablet>publication:tablet>packaging:packaging:corporate-identity:digital-design:publication:parallax-scrolling:website"/>
+    <file name="dior251x189.jpg" crc="237459089" ref="phone>digital-design"/>
+    <file name="arden251x189.jpg" crc="373616201" ref="phone>digital-design"/>
+    <file name="kors251x189.jpg" crc="238514058" ref="phone>digital-design"/>
+    <file name="prada251x189.jpg" crc="3899722300" ref="phone>digital-design"/>
+    <file name="rayban251x189.jpg" crc="219275938" ref="phone>digital-design"/>
+    <file name="klein251x189.jpg" crc="504452263" ref="phone>digital-design"/>
+    <file name="read251x189.jpg" crc="3864598936" ref="phone>digital-design"/>
+    <file name="eye251x189.jpg" crc="382510302" ref="phone>digital-design"/>
+    <file name="sunset251x189.jpg" crc="315176132" ref="phone>digital-design"/>
+    <file name="elizabeth251x188.jpg" crc="4060759391" ref="phone>digital-design"/>
+    <file name="portrait painting252x189.jpg" crc="4171491771" ref="phone>digital-design"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>digital-design:phone>corporate-identity:phone>publication:phone>packaging:tablet>digital-design:tablet>corporate-identity:tablet>publication:tablet>packaging:packaging:corporate-identity:digital-design:publication:parallax-scrolling:website"/>
+    <file name="lemondrop288x288.jpg" crc="4095041240" ref="phone>corporate-identity"/>
+    <file name="logo12288x216.jpg" crc="288567930" ref="phone>corporate-identity"/>
+    <file name="logo2288x288.jpg" crc="4128764036" ref="phone>corporate-identity"/>
+    <file name="logo4288x288.jpg" crc="4242539727" ref="phone>corporate-identity"/>
+    <file name="it_america304x304.jpg" crc="3937570662" ref="phone>corporate-identity"/>
+    <file name="logo32300x225.jpg" crc="241231464" ref="phone>corporate-identity"/>
+    <file name="logo5288x288.jpg" crc="3868518898" ref="phone>corporate-identity"/>
+    <file name="logo8288x288.jpg" crc="4146204257" ref="phone>corporate-identity"/>
+    <file name="glowhairstudio304x304.jpg" crc="180387204" ref="phone>corporate-identity"/>
+    <file name="grand-casino304x304.jpg" crc="3820421421" ref="phone>corporate-identity"/>
+    <file name="kaffee_delight304x304.jpg" crc="4052673398" ref="phone>corporate-identity"/>
+    <file name="lotus-spa---sauna304x304.jpg" crc="4016309302" ref="phone>corporate-identity"/>
+    <file name="nonresident304x304.jpg" crc="406593419" ref="phone>corporate-identity"/>
+    <file name="oriental-handicraft304x304.jpg" crc="4096905785" ref="phone>corporate-identity"/>
+    <file name="sunrise-real-estate304x304.jpg" crc="518940075" ref="phone>corporate-identity"/>
+    <file name="tibetanhouse288x288.jpg" crc="229989316" ref="phone>corporate-identity"/>
+    <file name="search_icon_black-u10415-r-fr.png" crc="321269591" ref="phone>corporate-identity:tablet>corporate-identity:corporate-identity"/>
+    <file name="lemondrop-crop-u10415.png" crc="101995960" ref="phone>corporate-identity"/>
+    <file name="logo1-crop-u10413.png" crc="4019790755" ref="phone>corporate-identity"/>
+    <file name="logo2-crop-u10401.png" crc="4153876730" ref="phone>corporate-identity"/>
+    <file name="logo4-crop-u10399.png" crc="94754503" ref="phone>corporate-identity"/>
+    <file name="it_america-crop-u10409.png" crc="40852902" ref="phone>corporate-identity"/>
+    <file name="logo3-crop-u10411.png" crc="3868648908" ref="phone>corporate-identity"/>
+    <file name="logo5-crop-u10403.png" crc="375007868" ref="phone>corporate-identity"/>
+    <file name="logo8-crop-u10407.png" crc="3875926587" ref="phone>corporate-identity"/>
+    <file name="glowhairstudio-crop-u14013.png" crc="275210482" ref="phone>corporate-identity"/>
+    <file name="grand-casino-crop-u14022.png" crc="495842134" ref="phone>corporate-identity"/>
+    <file name="kaffee_delight-crop-u14031.png" crc="586149" ref="phone>corporate-identity"/>
+    <file name="lotus-spa---sauna-crop-u14040.png" crc="27644025" ref="phone>corporate-identity"/>
+    <file name="nonresident-crop-u14049.png" crc="3987667511" ref="phone>corporate-identity"/>
+    <file name="oriental-handicraft-crop-u14058.png" crc="4226220733" ref="phone>corporate-identity"/>
+    <file name="sunrise-real-estate-crop-u14067.png" crc="4267334390" ref="phone>corporate-identity"/>
+    <file name="tibetanhouse-crop-u10405.png" crc="3859633807" ref="phone>corporate-identity"/>
+    <file name="abstractfinal2246x160.jpg" crc="450580949" ref="phone>publication"/>
+    <file name="wallstreetfinal247x160.jpg" crc="526879947" ref="phone>publication"/>
+    <file name="promo_cover138x177.jpg" crc="190709029" ref="phone>publication"/>
+    <file name="img_1020301x161.jpg" crc="499857221" ref="phone>publication"/>
+    <file name="img_1048246x167.jpg" crc="516585477" ref="phone>publication"/>
+    <file name="img_1014-crop-u14108.png" crc="3958754837" ref="phone>publication"/>
+    <file name="img_1026303x161.jpg" crc="3809806531" ref="phone>publication"/>
+    <file name="promo_covercontent138x177.jpg" crc="4215977493" ref="phone>publication"/>
+    <file name="apillano_packaging248x204.jpg" crc="3789147133" ref="phone>packaging"/>
+    <file name="pillano_packaging2247x204.jpg" crc="3837339662" ref="phone>packaging"/>
+    <file name="img_3671278x186.jpg" crc="4270356458" ref="phone>packaging"/>
+    <file name="img_3716278x186.jpg" crc="3792006955" ref="phone>packaging"/>
+    <file name="img_3707-crop-u14181.png" crc="479390040" ref="phone>packaging"/>
+    <file name="pillano_packaging5247x204.jpg" crc="4063103199" ref="phone>packaging"/>
+    <file name="img_3687-crop-u14175.png" crc="3868440854" ref="phone>packaging"/>
+    <file name="parallax.jpg" crc="314576288" ref="phone>web:tablet>web"/>
+    <file name="bg1.jpg" crc="4059830528" ref="tablet>index"/>
+    <file name="adobe-cc-circle-pr-u9809-fr.png" crc="395673912" ref="tablet>index"/>
+    <file name="adobe-muse-icon-ieu9807-fr.png" crc="468124561" ref="tablet>index"/>
+    <file name="adobe-muse-icon.png" crc="193813737" ref="tablet>index:index"/>
+    <file name="adobe-ps-icon-u9804-fr.png" crc="3883626803" ref="tablet>index"/>
+    <file name="adobe-ai-icon-u9805-fr.png" crc="326458357" ref="tablet>index"/>
+    <file name="adobe-dw-icon-u9803-fr.png" crc="318783829" ref="tablet>index"/>
+    <file name="adobe-id-icon-u9806-fr.png" crc="182138052" ref="tablet>index"/>
+    <file name="shakya_resume533x690.jpg" crc="3922445020" ref="tablet>resume"/>
+    <file name="u10991-17.png" crc="70783238" ref="tablet>contact"/>
+    <file name="u10991-17-r.png" crc="395046389" ref="tablet>contact"/>
+    <file name="u10991-17-m.png" crc="395046389" ref="tablet>contact"/>
+    <file name="u10991-17-fs.png" crc="395046389" ref="tablet>contact"/>
+    <file name="eddie368x277.jpg" crc="67968379" ref="tablet>digital-design"/>
+    <file name="dior368x276.jpg" crc="484313713" ref="tablet>digital-design"/>
+    <file name="arden368x277.jpg" crc="295675072" ref="tablet>digital-design"/>
+    <file name="kors368x277.jpg" crc="4254409090" ref="tablet>digital-design"/>
+    <file name="prada368x277.jpg" crc="454580584" ref="tablet>digital-design"/>
+    <file name="rayban368x277.jpg" crc="182740627" ref="tablet>digital-design"/>
+    <file name="klein368x277.jpg" crc="186510171" ref="tablet>digital-design"/>
+    <file name="read368x277.jpg" crc="3870006121" ref="tablet>digital-design"/>
+    <file name="eye368x277.jpg" crc="4288914288" ref="tablet>digital-design"/>
+    <file name="sunset368x277.jpg" crc="4102784574" ref="tablet>digital-design"/>
+    <file name="elizabeth367x276.jpg" crc="324136844" ref="tablet>digital-design"/>
+    <file name="portrait painting369x276.jpg" crc="121998410" ref="tablet>digital-design"/>
+    <file name="beach_eddie-crop-u13479.png" crc="393100601" ref="tablet>digital-design"/>
+    <file name="diorlipstick-crop-u13471.png" crc="4113684577" ref="tablet>digital-design"/>
+    <file name="arden_lipstick-crop-u13483.png" crc="338172937" ref="tablet>digital-design"/>
+    <file name="kors-watch-crop-u13491.png" crc="4059562865" ref="tablet>digital-design"/>
+    <file name="prada-eyewear-crop-u13475.png" crc="4135917937" ref="tablet>digital-design"/>
+    <file name="drayban_ad_poster-crop-u13487.png" crc="318077351" ref="tablet>digital-design"/>
+    <file name="ck_black-crop-u13481.png" crc="4056635573" ref="tablet>digital-design"/>
+    <file name="poster-crop-u13473.png" crc="157914900" ref="tablet>digital-design"/>
+    <file name="collage_sim-crop-u13477.png" crc="524546292" ref="tablet>digital-design"/>
+    <file name="collage-crop-u13489.png" crc="4250919216" ref="tablet>digital-design"/>
+    <file name="arden_ad_poster.jpg" crc="4266011503" ref="tablet>digital-design:digital-design"/>
+    <file name="portrait painting50x38.jpg" crc="255353781" ref="tablet>digital-design"/>
+    <file name="lemondrop-crop-u11369.png" crc="4112144005" ref="tablet>corporate-identity"/>
+    <file name="logo12.jpg" crc="3979465757" ref="tablet>corporate-identity:corporate-identity"/>
+    <file name="logo2-crop-u11379.png" crc="3834856563" ref="tablet>corporate-identity"/>
+    <file name="logo4403x403.jpg" crc="367335197" ref="tablet>corporate-identity"/>
+    <file name="oriental-handicraft496x497.jpg" crc="376616872" ref="tablet>corporate-identity"/>
+    <file name="glowhairstudio-crop-u13367.png" crc="515500988" ref="tablet>corporate-identity"/>
+    <file name="nonresident-crop-u13427.png" crc="3827962415" ref="tablet>corporate-identity"/>
+    <file name="sunrise-real-estate-crop-u13436.png" crc="431137413" ref="tablet>corporate-identity"/>
+    <file name="grand-casino-crop-u13376.png" crc="397436456" ref="tablet>corporate-identity"/>
+    <file name="kaffee_delight-crop-u13385.png" crc="3766100365" ref="tablet>corporate-identity"/>
+    <file name="lotus-spa---sauna-crop-u13394.png" crc="3856665280" ref="tablet>corporate-identity"/>
+    <file name="it_america-crop-u11375.png" crc="530149891" ref="tablet>corporate-identity"/>
+    <file name="logo32.jpg" crc="229176275" ref="tablet>corporate-identity:corporate-identity"/>
+    <file name="logo5-crop-u11373.png" crc="98136711" ref="tablet>corporate-identity"/>
+    <file name="logo8-crop-u11383.png" crc="3857747979" ref="tablet>corporate-identity"/>
+    <file name="tibetanhouse-crop-u11371.png" crc="502983845" ref="tablet>corporate-identity"/>
+    <file name="lemondrop-crop-u11357.png" crc="3951018786" ref="tablet>corporate-identity"/>
+    <file name="logo1-crop-u11361.png" crc="3991488494" ref="tablet>corporate-identity"/>
+    <file name="logo2-crop-u11359.png" crc="102692604" ref="tablet>corporate-identity"/>
+    <file name="logo4-crop-u11355.png" crc="178971025" ref="tablet>corporate-identity"/>
+    <file name="oriental-handicraft-crop-u13361.png" crc="279567136" ref="tablet>corporate-identity"/>
+    <file name="glowhairstudio-crop-u13370.png" crc="249867790" ref="tablet>corporate-identity"/>
+    <file name="nonresident-crop-u13430.png" crc="3929919716" ref="tablet>corporate-identity"/>
+    <file name="sunrise-real-estate-crop-u13439.png" crc="331621725" ref="tablet>corporate-identity"/>
+    <file name="grand-casino-crop-u13379.png" crc="4198562435" ref="tablet>corporate-identity"/>
+    <file name="kaffee_delight-crop-u13388.png" crc="3856860780" ref="tablet>corporate-identity"/>
+    <file name="lotus-spa---sauna-crop-u13397.png" crc="4035158657" ref="tablet>corporate-identity"/>
+    <file name="it_america-crop-u11349.png" crc="3801670801" ref="tablet>corporate-identity"/>
+    <file name="logo3-crop-u11363.png" crc="430721131" ref="tablet>corporate-identity"/>
+    <file name="logo5-crop-u11351.png" crc="4158479230" ref="tablet>corporate-identity"/>
+    <file name="logo8-crop-u11353.png" crc="58061160" ref="tablet>corporate-identity"/>
+    <file name="tibetanhouse-crop-u11365.png" crc="136805652" ref="tablet>corporate-identity"/>
+    <file name="abstractfinal2347x225.jpg" crc="4032939631" ref="tablet>publication"/>
+    <file name="wallstreetfinal348x225.jpg" crc="4116998034" ref="tablet>publication"/>
+    <file name="promo_cover194x249.jpg" crc="164376216" ref="tablet>publication"/>
+    <file name="img_1020425x227.jpg" crc="311972654" ref="tablet>publication"/>
+    <file name="img_1048347x235.jpg" crc="44712784" ref="tablet>publication"/>
+    <file name="img_1014-crop-u13661.png" crc="4183691597" ref="tablet>publication"/>
+    <file name="img_1026427x227.jpg" crc="4020993244" ref="tablet>publication"/>
+    <file name="promo_covercontent194x249.jpg" crc="3893260582" ref="tablet>publication"/>
+    <file name="abstractfinal2-crop-u13680.png" crc="3971535209" ref="tablet>publication"/>
+    <file name="wallstreetfinal76x49.jpg" crc="266958352" ref="tablet>publication"/>
+    <file name="promo_cover-crop-u13684.png" crc="534849118" ref="tablet>publication"/>
+    <file name="img_1020-crop-u13686.png" crc="3804000627" ref="tablet>publication"/>
+    <file name="img_104873x49.jpg" crc="3889082420" ref="tablet>publication"/>
+    <file name="img_1014-crop-u13674.png" crc="98607478" ref="tablet>publication"/>
+    <file name="img_1026-crop-u13678.png" crc="40133147" ref="tablet>publication"/>
+    <file name="promo_covercontent-crop-u13672.png" crc="28082562" ref="tablet>publication"/>
+    <file name="apillano_packaging420x345.jpg" crc="531619975" ref="tablet>packaging"/>
+    <file name="pillano_packaging2419x345.jpg" crc="4014929717" ref="tablet>packaging"/>
+    <file name="img_3671471x314.jpg" crc="3838878627" ref="tablet>packaging"/>
+    <file name="img_3716471x314.jpg" crc="125833295" ref="tablet>packaging"/>
+    <file name="img_3707-crop-u13594.png" crc="3825380036" ref="tablet>packaging"/>
+    <file name="pillano_packaging5419x345.jpg" crc="4265252845" ref="tablet>packaging"/>
+    <file name="img_3687-crop-u13590.png" crc="36142495" ref="tablet>packaging"/>
+    <file name="apillano_packaging65x54.jpg" crc="3779312819" ref="tablet>packaging"/>
+    <file name="img_3651.jpg" crc="3811674240" ref="tablet>packaging:packaging"/>
+    <file name="img_367171x47.jpg" crc="503468955" ref="tablet>packaging"/>
+    <file name="img_3716-crop-u13608.png" crc="532870982" ref="tablet>packaging"/>
+    <file name="img_3707-crop-u13612.png" crc="3932987158" ref="tablet>packaging"/>
+    <file name="img_3759.jpg" crc="51503030" ref="tablet>packaging:packaging"/>
+    <file name="img_3687-crop-u13610.png" crc="257681640" ref="tablet>packaging"/>
+    <file name="u5382-6.png" crc="195233738" ref="index"/>
+    <file name="photo1312.jpg" crc="3846981712" ref="index"/>
+    <file name="u14929-4.png" crc="366266455" ref="index"/>
+    <file name="css3-u15054-fr.png" crc="3961435729" ref="index"/>
+    <file name="adobe-dw-icon-u5648-fr.png" crc="3809382916" ref="index"/>
+    <file name="adobe-ps-icon-u5650-fr.png" crc="4209002671" ref="index"/>
+    <file name="adobe-ai-icon-u5649-fr.png" crc="308797631" ref="index"/>
+    <file name="js_logo-u15026-fr.png" crc="4079113233" ref="index"/>
+    <file name="adobe-id-icon-u5651-fr.png" crc="3786212132" ref="index"/>
+    <file name="jquery-u15012-fr.png" crc="480584707" ref="index"/>
+    <file name="adobe-muse-icon-ieu5652-fr.png" crc="4192272775" ref="index"/>
+    <file name="adobe-cc-circle-pr-u5653-fr.png" crc="44583968" ref="index"/>
+    <file name="html5-u15040-fr.png" crc="4034964586" ref="index"/>
+    <file name="computer_icon_10.png" crc="378495891" ref="index"/>
+    <file name="cursor.png" crc="411119434" ref="index"/>
+    <file name="braces.png" crc="499982981" ref="index"/>
+    <file name="u14937-6.png" crc="3941039692" ref="index"/>
+    <file name="angularjs_logosvg.png" crc="3858614102" ref="index"/>
+    <file name="png.png" crc="450858906" ref="index"/>
+    <file name="responsive-design.png" crc="113758397" ref="index"/>
+    <file name="bootstrap.png" crc="4190282983" ref="index"/>
+    <file name="u14943-4.png" crc="14708284" ref="index"/>
+    <file name="u7101-17.png" crc="70783238" ref="contact"/>
+    <file name="u7101-17-r.png" crc="395046389" ref="contact"/>
+    <file name="u7101-17-m.png" crc="395046389" ref="contact"/>
+    <file name="u7101-17-fs.png" crc="395046389" ref="contact"/>
+    <file name="arden.jpg" crc="3838936844" ref="design"/>
+    <file name="prevage.jpg" crc="209055369" ref="design"/>
+    <file name="rayban.jpg" crc="4048616442" ref="design"/>
+    <file name="eddie.jpg" crc="4077012457" ref="design"/>
+    <file name="9wshoe.jpg" crc="4035400308" ref="design"/>
+    <file name="beauty.jpg" crc="4210993456" ref="design"/>
+    <file name="eye.jpg" crc="3954760882" ref="design"/>
+    <file name="sunset.jpg" crc="4107640839" ref="design"/>
+    <file name="jla.jpg" crc="3989246024" ref="design"/>
+    <file name="read.jpg" crc="4111076747" ref="design"/>
+    <file name="apillano_packaging.jpg" crc="3792973680" ref="packaging"/>
+    <file name="pillano_packaging2.jpg" crc="4145805481" ref="packaging"/>
+    <file name="img_3671.jpg" crc="3843968718" ref="packaging"/>
+    <file name="img_3716.jpg" crc="477683633" ref="packaging"/>
+    <file name="img_3707-crop-u12859.png" crc="3842126628" ref="packaging"/>
+    <file name="pillano_packaging5.jpg" crc="4073744175" ref="packaging"/>
+    <file name="img_3687-crop-u12867.png" crc="27508588" ref="packaging"/>
+    <file name="apillano_packaging97x80.jpg" crc="126664140" ref="packaging"/>
+    <file name="img_3671105x70.jpg" crc="69444024" ref="packaging"/>
+    <file name="img_3716-crop-u12838.png" crc="447519767" ref="packaging"/>
+    <file name="img_3707-crop-u12840.png" crc="4047082576" ref="packaging"/>
+    <file name="img_3687-crop-u12852.png" crc="389209321" ref="packaging"/>
+    <file name="lemondrop.jpg" crc="4160378120" ref="corporate-identity"/>
+    <file name="logo2.jpg" crc="4044511763" ref="corporate-identity"/>
+    <file name="logo4.jpg" crc="55645551" ref="corporate-identity"/>
+    <file name="kaffee_delight.jpg" crc="104296022" ref="corporate-identity"/>
+    <file name="lotus-spa---sauna.jpg" crc="91736864" ref="corporate-identity"/>
+    <file name="nonresident.jpg" crc="3851030873" ref="corporate-identity"/>
+    <file name="oriental-handicraft.jpg" crc="303895870" ref="corporate-identity"/>
+    <file name="sunrise-real-estate.jpg" crc="217986181" ref="corporate-identity"/>
+    <file name="it_america.jpg" crc="509126487" ref="corporate-identity"/>
+    <file name="logo5.jpg" crc="133533624" ref="corporate-identity"/>
+    <file name="glowhairstudio.jpg" crc="30944405" ref="corporate-identity"/>
+    <file name="grand-casino.jpg" crc="486289325" ref="corporate-identity"/>
+    <file name="logo8.jpg" crc="145617193" ref="corporate-identity"/>
+    <file name="tibetanhouse.jpg" crc="253122728" ref="corporate-identity"/>
+    <file name="lemondrop-crop-u4631.png" crc="65125278" ref="corporate-identity"/>
+    <file name="logo1-crop-u4599.png" crc="214787179" ref="corporate-identity"/>
+    <file name="logo2-crop-u4655.png" crc="315248001" ref="corporate-identity"/>
+    <file name="logo4-crop-u4776.png" crc="3791114555" ref="corporate-identity"/>
+    <file name="kaffee_delight-crop-u11821.png" crc="366241549" ref="corporate-identity"/>
+    <file name="lotus-spa---sauna-crop-u11850.png" crc="162270374" ref="corporate-identity"/>
+    <file name="nonresident-crop-u11859.png" crc="440313337" ref="corporate-identity"/>
+    <file name="oriental-handicraft-crop-u11868.png" crc="320354425" ref="corporate-identity"/>
+    <file name="sunrise-real-estate-crop-u11877.png" crc="3986594782" ref="corporate-identity"/>
+    <file name="it_america-crop-u5017.png" crc="4038658538" ref="corporate-identity"/>
+    <file name="logo3-crop-u4664.png" crc="3941492828" ref="corporate-identity"/>
+    <file name="logo5-crop-u4673.png" crc="516864903" ref="corporate-identity"/>
+    <file name="glowhairstudio-crop-u11899.png" crc="391540935" ref="corporate-identity"/>
+    <file name="grand-casino-crop-u11908.png" crc="4220586102" ref="corporate-identity"/>
+    <file name="logo8-crop-u4608.png" crc="183855946" ref="corporate-identity"/>
+    <file name="tibetanhouse-crop-u4617.png" crc="429644342" ref="corporate-identity"/>
+    <file name="abstract.jpg" crc="421446453" ref="publica"/>
+    <file name="wall-street.jpg" crc="143605823" ref="publica"/>
+    <file name="promo.jpg" crc="139757421" ref="publica"/>
+    <file name="content.jpg" crc="114914437" ref="publica"/>
+    <file name="img_1048.jpg" crc="4158793358" ref="publica"/>
+    <file name="img_1014-crop-u9271.png" crc="4273154737" ref="publica"/>
+    <file name="img_1020.jpg" crc="4293655148" ref="publica"/>
+    <file name="img_1026.jpg" crc="4112241669" ref="publica"/>
+    <file name="img_1054.jpg" crc="351726910" ref="publica"/>
+    <file name="shakya_resume.jpg" crc="23173801" ref="resume"/>
+    <file name="parallex.jpg" crc="407215293" ref="parallax:website"/>
+    <file name="me_sleep1.gif" crc="4223228051" ref="old-parallax"/>
+    <file name="me_sleep2.gif" crc="252209256" ref="old-parallax"/>
+    <file name="cityscape1.jpg" crc="230858430" ref="old-parallax"/>
+    <file name="rain1.png" crc="195019589" ref="old-parallax"/>
+    <file name="forest.gif" crc="236886877" ref="old-parallax"/>
+    <file name="cloud.gif" crc="306801532" ref="old-parallax"/>
+    <file name="girl_stare1.gif" crc="3898581512" ref="old-parallax"/>
+    <file name="dayandnight1.gif" crc="4178002208" ref="old-parallax"/>
+    <file name="me_sleep3.gif" crc="148241887" ref="old-parallax"/>
+    <file name="me_sleep5.png" crc="3925727542" ref="old-parallax"/>
+    <file name="enter.gif" crc="4165303918" ref="old-parallax"/>
+    <file name="eddie2.jpg" crc="3796407245" ref="digital-design"/>
+    <file name="dior.jpg" crc="3770039398" ref="digital-design"/>
+    <file name="arden2.jpg" crc="4084747960" ref="digital-design"/>
+    <file name="kors.jpg" crc="3887335397" ref="digital-design"/>
+    <file name="prada.jpg" crc="359372143" ref="digital-design"/>
+    <file name="rayban2.jpg" crc="3975470702" ref="digital-design"/>
+    <file name="klein.jpg" crc="3766319641" ref="digital-design"/>
+    <file name="read2.jpg" crc="47412640" ref="digital-design"/>
+    <file name="eye2.jpg" crc="4137475871" ref="digital-design"/>
+    <file name="sunset2.jpg" crc="4292971776" ref="digital-design"/>
+    <file name="elizabeth.jpg" crc="59675122" ref="digital-design"/>
+    <file name="portrait painting.jpg" crc="3952460347" ref="digital-design"/>
+    <file name="beach_eddie.jpg" crc="3872051496" ref="digital-design"/>
+    <file name="diorlipstick-crop-u12292.png" crc="358417191" ref="digital-design"/>
+    <file name="arden_lipstick-crop-u12113.png" crc="314944261" ref="digital-design"/>
+    <file name="kors-watch-crop-u12310.png" crc="258102769" ref="digital-design"/>
+    <file name="prada-eyewear-crop-u12328.png" crc="4194774737" ref="digital-design"/>
+    <file name="drayban_ad_poster-crop-u12301.png" crc="4000023817" ref="digital-design"/>
+    <file name="ck_black-crop-u12274.png" crc="3767402606" ref="digital-design"/>
+    <file name="poster-crop-u12319.png" crc="3889179735" ref="digital-design"/>
+    <file name="collage_sim-crop-u12283.png" crc="53451146" ref="digital-design"/>
+    <file name="collage-crop-u12388.png" crc="138170189" ref="digital-design"/>
+    <file name="portrait painting97x73.jpg" crc="4171629794" ref="digital-design"/>
+    <file name="abstractfinal2.jpg" crc="305539187" ref="publication"/>
+    <file name="wallstreetfinal.jpg" crc="188456694" ref="publication"/>
+    <file name="promo_cover.jpg" crc="4058050667" ref="publication"/>
+    <file name="img_10202.jpg" crc="218692195" ref="publication"/>
+    <file name="img_10482.jpg" crc="4167184394" ref="publication"/>
+    <file name="img_10542.jpg" crc="3932962504" ref="publication"/>
+    <file name="img_1014.jpg" crc="4061443164" ref="publication"/>
+    <file name="img_10262.jpg" crc="4027697469" ref="publication"/>
+    <file name="promo_covercontent.jpg" crc="4210514896" ref="publication"/>
+    <file name="abstractfinal2-crop-u12678.png" crc="437784697" ref="publication"/>
+    <file name="wallstreetfinal115x74.jpg" crc="246379182" ref="publication"/>
+    <file name="promo_cover-crop-u12743.png" crc="470354348" ref="publication"/>
+    <file name="img_1020-crop-u12674.png" crc="4064877737" ref="publication"/>
+    <file name="img_1048110x74.jpg" crc="3939305121" ref="publication"/>
+    <file name="img_1054-crop-u12692.png" crc="377035830" ref="publication"/>
+    <file name="img_1014-crop-u12682.png" crc="477137900" ref="publication"/>
+    <file name="img_1026-crop-u12684.png" crc="37077828" ref="publication"/>
+    <file name="promo_covercontent-crop-u12676.png" crc="4079979990" ref="publication"/>
+    <file name="second.gif" crc="417452735" ref="parallax-scrolling"/>
+    <file name="third.gif" crc="419228645" ref="parallax-scrolling"/>
+    <file name="cityscape1.gif" crc="3798695483" ref="parallax-scrolling"/>
+    <file name="rain1.gif" crc="212633343" ref="parallax-scrolling"/>
+    <file name="forest2.gif" crc="236886877" ref="parallax-scrolling"/>
+    <file name="cloud1.gif" crc="4262538412" ref="parallax-scrolling"/>
+    <file name="girl_stare12.gif" crc="3898581512" ref="parallax-scrolling"/>
+    <file name="dayandnight12.gif" crc="4178002208" ref="parallax-scrolling"/>
+    <file name="me_sleep32.gif" crc="148241887" ref="parallax-scrolling"/>
+    <file name="me_sleep52.png" crc="4114549748" ref="parallax-scrolling"/>
+    <file name="first.png" crc="205319390" ref="parallax-scrolling"/>
+    <file name="favicon.png" crc="445828119" ref="parallax-scrolling"/>
+    <file name="retina pro.png" crc="4288972428" ref="website"/>
+    <file name="thumbnail_logo.jpg" crc="525436616" ref="website"/>
+    <file name="wireframes.jpg" crc="4132529912" ref="website"/>
+    <file name="screenshot1.jpg" crc="226826038" ref="website"/>
+    <file name="screenshot2.jpg" crc="106770998" ref="website"/>
+    <file name="screenshot4.jpg" crc="117963622" ref="website"/>
+    <file name="screenshot5.jpg" crc="525172059" ref="website"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="467875086" ref="tablet>packaging:tablet>resume:tablet>web:tablet>contact:tablet>publication:tablet>corporate-identity:tablet>digital-design:tablet>index:tablet>parallax-scrolling"/>
+      <file name="packaging.css" crc="142066260" ref="tablet>packaging"/>
+      <file name="resume.css" crc="68601565" ref="tablet>resume"/>
+      <file name="web.css" crc="3818951497" ref="tablet>web"/>
+      <file name="contact.css" crc="431792296" ref="tablet>contact"/>
+      <file name="publication.css" crc="72620548" ref="tablet>publication"/>
+      <file name="corporate-identity.css" crc="4209740662" ref="tablet>corporate-identity"/>
+      <file name="digital-design.css" crc="3858596392" ref="tablet>digital-design"/>
+      <file name="index.css" crc="269112091" ref="tablet>index"/>
+      <file name="parallax-scrolling.css" crc="3767963334" ref="tablet>parallax-scrolling"/>
+    </folder>
+    <file name="index.html" crc="506445778" mt="1418838114376" redirect="true"/>
+    <file name="resume.html" crc="122815054" mt="1422150462650" redirect="true"/>
+    <file name="contact.html" crc="365672453" mt="1458605548861" redirect="true"/>
+    <file name="digital-design.html" crc="292337151" mt="1418885120264" redirect="true"/>
+    <file name="corporate-identity.html" crc="4142682826" mt="1418885127144" redirect="true"/>
+    <file name="publication.html" crc="251381744" mt="1418838114379" redirect="true"/>
+    <file name="packaging.html" crc="306516998" mt="1418838114379" redirect="true"/>
+    <file name="web.html" crc="352566810" mt="1421477659939" redirect="true"/>
+    <file name="parallax-scrolling.html" crc="3829510740" mt="1419129246735" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="51700220" ref="phone>web:phone>contact:phone>packaging:phone>resume:phone>publication:phone>corporate-identity:phone>digital-design:phone>index"/>
+      <file name="web.css" crc="462230731" ref="phone>web"/>
+      <file name="contact.css" crc="115274492" ref="phone>contact"/>
+      <file name="packaging.css" crc="4126125524" ref="phone>packaging"/>
+      <file name="resume.css" crc="522946435" ref="phone>resume"/>
+      <file name="publication.css" crc="3852192174" ref="phone>publication"/>
+      <file name="corporate-identity.css" crc="159307730" ref="phone>corporate-identity"/>
+      <file name="digital-design.css" crc="3916430816" ref="phone>digital-design"/>
+      <file name="index.css" crc="3945181425" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="65944822" mt="1418885120552" redirect="true"/>
+    <file name="resume.html" crc="159877225" mt="1418889172735" redirect="true"/>
+    <file name="contact.html" crc="469606595" mt="1458605544700" redirect="true"/>
+    <file name="digital-design.html" crc="4045990674" mt="1418885118554" redirect="true"/>
+    <file name="corporate-identity.html" crc="3777835966" mt="1418885129947" redirect="true"/>
+    <file name="publication.html" crc="428008740" mt="1418885120971" redirect="true"/>
+    <file name="packaging.html" crc="3881407179" mt="1418885118555" redirect="true"/>
+    <file name="web.html" crc="3806078017" mt="1421477659943" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3926642638" mt="1458604008822" redirect="true"/>
+  <file name="contact.html" crc="3923015939" mt="1458605555075" redirect="true"/>
+  <file name="design.html" crc="430516044" mt="1458604008823" redirect="true"/>
+  <file name="packaging.html" crc="3773503911" mt="1458604008824" redirect="true"/>
+  <file name="corporate-identity.html" crc="3821149364" mt="1458604008825" redirect="true"/>
+  <file name="publica.html" crc="3886659612" mt="1458604008825" redirect="true"/>
+  <file name="resume.html" crc="4040391336" mt="1458604008826" redirect="true"/>
+  <file name="parallax.html" crc="71433085" mt="1458604008826" redirect="true"/>
+  <file name="old-parallax.html" crc="4274216538" mt="1458604008827" redirect="true"/>
+  <file name="digital-design.html" crc="53319452" mt="1458604008828" redirect="true"/>
+  <file name="publication.html" crc="357963493" mt="1458604008828" redirect="true"/>
+  <file name="parallax-scrolling.html" crc="62023724" mt="1421592961074" redirect="true"/>
+  <file name="website.html" crc="278317163" mt="1458604008829" redirect="true"/>
+</manifest>
